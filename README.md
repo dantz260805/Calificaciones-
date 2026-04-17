@@ -1,0 +1,1 @@
+Este programa tiene como objetivo ser un gestor de calificaciones donde el usuario ingrese tanto el nombre del alumno y sus materias ademas de las calificaciones,dando como resultado el promedio que en base a ello dara el mensaje de ser o no aprobatoria la calificacion 
